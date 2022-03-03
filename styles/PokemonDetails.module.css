@@ -1,0 +1,17 @@
+.title {
+    font-size: xx-large;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+  }
+
+  .text {
+    font-size: large;
+    margin: 10px 0px;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .moves {
+    float: left;
+    width: 20%;
+  }
